@@ -1,7 +1,7 @@
 
 ## *PREDICTION OF H1N1 AND SEASONAL VACCINATION STATUS AND GETTING INDIVIDUALS INFORMED BY MACHINE LEARNING*
 
-*whole manifest is on the https://github.com/sametsoekel/flushotlearning/blob/master/manifest.pdf
+*the whole manifest is on https://github.com/sametsoekel/flushotlearning/blob/master/manifest.pdf
 
 
 ## Content
