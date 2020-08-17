@@ -1,5 +1,6 @@
 
 ## *PREDICTION OF H1N1 AND SEASONAL VACCINATION STATUS AND GETTING INDIVIDUALS INFORMED BY MACHINE LEARNING*
+<img src="https://github.com/sametsoekel/flushotlearning/blob/master/logo.png?raw=true" width="75" height="75">
 
 *the whole manifest is on https://github.com/sametsoekel/flushotlearning/blob/master/manifest.pdf
 
@@ -36,10 +37,12 @@ have not been vaccinated should be informed by a SMS message.
 
 For all binary variables: 0 = No; 1 = Yes.
 
-```
- h1n1_vaccine - Whether respondent received H1N1 flu vaccine.
- seasonal_vaccine - Whether respondent received seasonal flu vaccine.
-```
+
+1<sup>st</sup> target : h1n1_vaccine - Whether respondent received H1N1 flu vaccine. \
+2<sup>nd</sup> target : seasonal_vaccine - Whether respondent received seasonal flu vaccine.
+
+---
+
 1. h1n1_concern - Level of concern about the H1N1 flu.
     a. 0 = Not at all concerned; 1 = Not very concerned; 2 = Somewhat
        concerned; 3 = Very concerned.
